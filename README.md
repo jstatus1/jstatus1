@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi Everyone!! 👋
+Whats Poppin? It is your boy, Johnson Tran aka [Jstatus1](https://johnsontran.tech/).
 
-<!--
-**jstatus1/jstatus1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I currently am working @Serverless Solutions as a Cloud Engineer/Dev Ops Engineer.
+- 🤔 I am currently learning about the Cloud Native Ecosystem.
+- 💬 Don't feel scared to reach out. I won't bite!! You can reach me [here](https://github.com/jstatus1/jstatus1/issues)
 
-Here are some ideas to get you started:
+⚡ Hobbies And Aspirations:
+-   Running
+-   Weightlifting
+-   Jui Jitsu
+-   Reading
+-   Guitar
+ 
+#### Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Jstatus1's github stats](https://github-readme-stats.vercel.app/api?username=jstatus1&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jstatus1&layout=compact&theme=radical)
+
+
+
