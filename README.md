@@ -19,4 +19,8 @@ Whats Poppin? It is your boy, Johnson Tran aka [Jstatus1](https://johnsontran.te
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jstatus1&layout=compact&theme=radical)
 
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=jstatus1.jstatus1)
+
+
+
 
