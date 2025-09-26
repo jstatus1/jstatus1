@@ -1,5 +1,4 @@
 ### Hi Everyone!! 👋
-Whats Poppin? It is your boy, Johnson Tran aka [Jstatus1](https://johnsontran.tech/).
 
 - 🔭 I currently am working @Serverless Solutions as a Cloud Engineer/Dev Ops Engineer.
 - 🤔 I am currently learning about the Cloud Native Ecosystem.
